@@ -10,6 +10,7 @@ npm install
 
 # API Key
 include your Marvel key on /src/plugins/https.js
+(get yours on https://developer.marvel.com/)
 
 # serve with hot reload at localhost:8080
 npm run dev
